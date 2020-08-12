@@ -9,7 +9,7 @@ A website for a somewhat funny software engineer.
 built using classic Javascript, HTML and CSS
 
 TODO:
-- Implement Vue.js (Vue router)
+- Implement Vue.js  
 - Add emailing function for direct contact
 
 
